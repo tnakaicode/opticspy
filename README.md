@@ -1,6 +1,8 @@
 
 # This fork can by used with python 3.6
 
+fork from <https://github.com/Sterncat/opticspy.git>
+
 ## To test
 * mkdir /tmp/github/
 * cd /tmp/github/
